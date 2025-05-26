@@ -1,0 +1,163 @@
+﻿Сборка начата 24.03.2025 10:56:23.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\laba_5.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Debug\laba_5.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\laba_5.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt LibBlade.cpp
+         LibBlade.cpp
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(292,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(292,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(313,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(314,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(321,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(322,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(323,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(324,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(333,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(336,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(347,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(350,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(364,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(367,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(378,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(381,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(394,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(397,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(408,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(411,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(424,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(427,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(438,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+     1>C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(441,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         (компиляция исходного файла "/LibBlade.cpp")
+         
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\laba_5\laba_5\x64\Debug\laba_5.exe" /INCREMENTAL /ILK:"x64\Debug\laba_5.ilk" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\Include\Manifest\dpiaware.manifest" /DEBUG:FULL /PDB:"C:\Users\Влад\Desktop\laba_5\laba_5\x64\Debug\laba_5.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\laba_5\laba_5\x64\Debug\laba_5.lib" /MACHINE:X64 x64\Debug\laba_5.res
+         x64\Debug\ChildView.obj
+         x64\Debug\CMatrix.obj
+         x64\Debug\laba_5.obj
+         x64\Debug\LibBlade.obj
+         x64\Debug\MainFrm.obj
+         x64\Debug\stdafx.obj
+         laba_5.vcxproj -> C:\Users\Влад\Desktop\laba_5\laba_5\x64\Debug\laba_5.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\laba_5.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\laba_5.tlog\laba_5.lastbuildstate".
+     1>Сборка проекта "C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\laba_5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\laba_5.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(175,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(180,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(292,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(292,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(313,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(314,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(321,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(322,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(323,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(324,24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(333,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(336,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(347,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(350,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(364,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(367,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(378,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(381,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(394,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(397,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(408,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(411,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(424,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(427,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(438,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+         C:\Users\Влад\Desktop\laba_5\laba_5\laba_5\LibBlade.cpp(441,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+
+    Предупреждений: 32
+    Ошибок: 0
+
+Прошло времени 00:00:01.86
